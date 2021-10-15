@@ -1,1 +1,3 @@
-# back-e-commerce
+# Back-E-Commerce
+
+## Motivation
